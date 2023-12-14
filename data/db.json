@@ -1,16 +1,16 @@
 {
   "blogs": [
     {
-      "title": "Always joyous!",
-      "body": "You were the most unexpected entry to our family that bought immense joy to all of us! I will eternally love you! Thaleia xx",
-      "author": "Thaleia",
-      "id": 1
-    },
-    {
       "title": "Will miss you!",
       "body": "Despite the fact that I had to fight with my sister on who would take you out three times a day for your walk, I will forever miss you! Damian",
       "author": "Damian",
       "id": 2
+    },
+    {
+      "title": "I love you",
+      "body": "You will never be forgotten!",
+      "author": "someone who cares",
+      "id": 3
     }
   ]
 }

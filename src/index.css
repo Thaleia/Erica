@@ -109,3 +109,19 @@ body {
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 767px) {
+
+    .home img{
+      max-width: 730px;
+      width: 100%;
+      height: auto;
+      margin: auto auto;
+    }
+
+    .EWModal {
+      font-size: 1.3em;
+    }
+
+}
